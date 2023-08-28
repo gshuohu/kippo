@@ -5,7 +5,7 @@
 # default. To run the kippo service with the database service, run:
 #   docker-compose --profile with-db up
 #
-version: '4'
+version: '3'
 
 services:
   kippo:
